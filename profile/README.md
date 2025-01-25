@@ -12,7 +12,7 @@
 <pre>
 info@compcarta.com
 --------------------------------------------------------------------------------
-<b>Founded    :</b>  2019 
+<!-- <b>Founded    :</b>  2019  -->
 <b>About      :</b>  <a href="https://compcarta.com/">Compcarta Solutions Private Limited</a> 
               Dedicated to transforming VLSI design with intelligent EDA tools that drive
               innovation and efficiency. Our solutions are crafted to reduce effort and
