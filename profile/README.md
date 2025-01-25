@@ -11,13 +11,13 @@
 
 <pre>
 info@compcarta.com
---------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 <b>About      :</b>  <a href="https://compcarta.com/">Compcarta Solutions Private Limited</a> 
               Dedicated to transforming VLSI design with intelligent EDA tools that drive
               innovation and efficiency. Our solutions are crafted to reduce effort and
               complexity, empowering engineers to focus on what truly matters - creating
               groundbreaking technology.
---------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 <b>Let's Get in Touch ✨</b>
 <a href="https://linkedin.com/company/compcarta-solutions/">LinkedIn</a>   <a href="mailto:info@compcarta.com">Email</a>
